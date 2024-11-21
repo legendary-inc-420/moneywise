@@ -1,4 +1,4 @@
-# Smart Expense Tracker - Chrome Extension
+# Moneywise: Smart Expense Tracker - Chrome Extension
 
 A privacy-focused expense tracking extension that helps you manage your finances directly in Chrome.
 
